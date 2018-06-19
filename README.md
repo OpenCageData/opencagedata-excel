@@ -1,4 +1,4 @@
 # opencagedata-excel
-Excel formulas for the [OpenCage Geocoding API](https://geocoder.opencagedata.com/)
+Excel formulas for the [OpenCage Geocoding API](https://opencagedata.com/)
 
-Please see [detailed tutorial / help docs](https://geocoder.opencagedata.com/tutorials/geocode-in-excel). 
+Please see [detailed tutorial / help docs](https://opencagedata.com/tutorials/geocode-in-excel). 
